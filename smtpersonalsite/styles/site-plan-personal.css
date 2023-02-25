@@ -26,6 +26,39 @@ Fonts are separated by a | */
   --nav-hover-background-color: #0C60D4;
 }
 
+.smt1-poster {
+  width: 30%;
+  
+}
+
+.persona1-cover {
+  width: 40%;
+  
+}
+
+.smtv-contrast {
+  width: 50%;
+}
+
+.smtv-battle {
+  width: 70%;
+}
+
+.p5r-cover {
+  width: 30%;
+}
+
+.p5r-battle {
+  width: 60%;
+}
+
+.sh2-cover {
+  width: 30%;
+}
+
+.sh2-battle {
+  width: 70%;
+}
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
@@ -173,3 +206,4 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+
