@@ -119,16 +119,20 @@ h4 {
     text-align: center;
     grid-column: 2/4;
     grid-row: 1/3;
+    color: #1B98E0;
+    font-family: Verdana, Georgia, Tahoma;
 }
 
 #hero-img {
-    width: 100px;
+    width: 100%;
 }
 
 #hero-msg h4 {
     text-align: center;
     grid-column: 2/4;
     grid-row: 1/3;
+    color: #ADFCF9;
+    font-family: Verdana, Georgia, Tahoma;
 }
 
 .button-box {
@@ -186,10 +190,30 @@ main section img {
     grid-row: 2/3;
 }
 
-.rapids-card{
+.rapids-card {
     margin: 200px 0;
     grid-column: 8/10;
     grid-row: 2/3;
+}
+
+.faq-title {
+    color: #162521;
+    font-family: Verdana, Georgia, Tahoma;
+    font-size: 2em;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.faq-main {
+    color: #162521;
+    font-family: Verdana, Georgia, Tahoma;
+    text-align: center;   
+    padding: 50px;
+}
+
+.faq-image {
+    border: 10px solid #0DAB76;
+    width: 50%;
 }
 
 footer {
