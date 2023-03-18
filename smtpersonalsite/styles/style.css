@@ -1,3 +1,5 @@
+/* The Backgrounds */
+
 body {
     max-width: 1600px;
     margin: 0 auto;
@@ -15,6 +17,8 @@ body {
 .body-sh2 {
     background-color: #01BAEF;
 }
+
+
 
 
 
@@ -66,6 +70,7 @@ nav a:hover {
 
 
 
+
 /* The Titles */
 
 #title-id {
@@ -89,6 +94,7 @@ nav a:hover {
 
 
 
+
 /* The Paragraphs */
 
 .everything {
@@ -101,7 +107,100 @@ nav a:hover {
 
 
 
+
 /* The Images */
+
+.first-image, .persona1-image {
+    width: 100%;
+    border: 15px solid #0C60D4;
+}
+
+.persona1-image {
+    width: 80%;
+    border: 15px solid #0C60D4;
+}
+
+.smt1-combat {
+    border: 15px solid #0C60D4;
+    width: 80%;
+}
+
+.smt1-poster {
+    border: 15px solid #0C60D4;
+    width: 40%;
+}
+
+.demons-image {
+    border: 15px solid #0C60D4;
+    width: 40%;
+}
+
+.smtv-cover {
+    border: 15px solid #0C60D4;
+    width: 25%;
+}
+
+.smtv-overworld {
+    border: 15px solid #0C60D4;
+    width: 80%;
+}
+
+.smtv-combat {
+    border: 15px solid #0C60D4;
+    width: 80%;
+}
+
+.smtv-contrast {
+    border: 15px solid #0C60D4;
+    width: 60%;
+}
+
+.p5r-cover {
+    border: 15px solid #C81927;
+    width: 40%;
+}
+
+.persona-mcs {
+    border: 15px solid #C81927;
+    width: 75%;
+}
+
+.persona-life {
+    border: 15px solid #C81927;
+    width: 70%;
+}
+
+.persona-combat {
+    border: 15px solid #C81927;
+    width: 75%;
+}
+
+.p5r-team {
+    border: 15px solid #C81927;
+    width: 90%;
+}
+
+.sh2-cover {
+    border: 15px solid #0C60D4;
+    width: 35%;
+}
+
+.sh2-combat {
+    border: 15px solid #0C60D4;
+    width: 75%;
+}
+
+.sh2-city {
+    border: 15px solid #0C60D4;
+    width: 70%;
+}
+
+.sh2-final-image {
+    border: 15px solid #0C60D4;
+    width: 70%;
+}
+
+
 
 
 
