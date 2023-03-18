@@ -1,0 +1,155 @@
+body {
+    max-width: 1600px;
+    margin: 0 auto;
+    background-color: #46AAAF;
+    font-family: Georgia, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+
+.body-p5r {
+    background-color: #0C60D4;
+}
+
+.body-sh2 {
+    background-color: #01BAEF;
+}
+
+
+
+
+/* The Heading Navigation Bars */
+
+header {
+    background-color:#0C60D4;
+    font-family: Georgia, Helvetica, sans-serif;
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+
+.logo {
+    width: 100px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    padding: 35px;
+    text-decoration: underline;
+}
+
+nav a:hover {
+    background-color:#C81927;
+    color: black;
+}
+
+.header-p5r {
+    background-color:#C81927;
+}
+
+.nav-p5r a:hover {
+    background-color: #01BAEF;
+}
+
+.nav-sh2 a:hover {
+    background-color: #46AAAF;
+}
+
+
+
+
+
+/* The Titles */
+
+#title-id {
+    color: black;
+    font-family: Georgia, Verdana, Tahoma;
+    font-size: 2em;
+    margin-top: 10px;
+    
+}
+
+.title {
+    text-align: center;
+    border: 10px solid #0C60D4;
+}
+
+.title-p5r {
+    border: 10px solid #C81927
+}
+
+
+
+
+
+/* The Paragraphs */
+
+.everything {
+    text-align: center;
+    font-family: sans-serif, Verdana, Georgia;
+    padding: 50px;
+}
+
+
+
+
+
+/* The Images */
+
+
+
+
+
+/* The Footers */
+
+footer {
+    background-color:#0C60D4;
+    color: black;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer a {
+    color: black;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: black;
+    background-color:#C81927;
+}
+
+footer p {
+    font-size: 1.2em;
+    text-decoration: underline;
+}    
+
+footer p a:hover {
+    text-decoration: underline;
+}    
+
+.footer-p5r {
+    background-color: #C81927;
+}
+
+.footer-p5r a:hover {
+    background-color: #01BAEF;
+}
+
+.footer-sh2 {
+    background-color: #0C60D4;
+}
+
+.footer-sh2 a:hover {
+    background-color: #46AAAF;
+}
