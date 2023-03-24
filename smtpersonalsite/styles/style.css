@@ -103,6 +103,11 @@ nav a:hover {
     padding: 50px;
 }
 
+.p5r-intro {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
 
 
 
@@ -199,6 +204,28 @@ nav a:hover {
     border: 15px solid #0C60D4;
     width: 70%;
 }
+
+
+
+
+
+
+
+/* The Audio */
+
+.life-will-change {
+
+    width: 300px;
+    height: 100px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+}
+
 
 
 
