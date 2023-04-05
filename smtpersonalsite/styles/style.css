@@ -95,18 +95,7 @@ nav a:hover {
 
 
 
-/* The Paragraphs */
 
-.everything {
-    text-align: center;
-    font-family: sans-serif, Verdana, Georgia;
-    padding: 50px;
-}
-
-.p5r-intro {
-    font-size: 13px;
-    font-family: Verdana, sans-serif, Georgia;
-}
 
 
 
@@ -211,10 +200,152 @@ nav a:hover {
 
 
 
+/* The Paragraphs */
+
+.everything {
+    text-align: center;
+    font-family: sans-serif, Verdana, Georgia;
+    padding: 50px;
+}
+
+.megaten-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+.smt1-combat-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+.velvet-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+.cathedral-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+.konan-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+.smtv-combat-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+.p5r-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+.persona-mc-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+.p5r-daily-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+.p5r-combat-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+.sh2-combat-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+.mansei-label {
+    font-size: 13px;
+    font-family: Verdana, sans-serif, Georgia;
+}
+
+
+
+
 /* The Audio */
 
-.life-will-change {
+.ginza {
+    width: 300px;
+    height: 100px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+}
 
+.velvet-room {
+    width: 300px;
+    height: 100px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+}
+
+.cathedral {
+    width: 300px;
+    height: 100px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+}
+
+.konan {
+    width: 300px;
+    height: 100px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+}
+
+.smtv-boss {
+    width: 300px;
+    height: 100px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+}
+
+.life-will-change {
+    width: 300px;
+    height: 100px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+}
+
+.take-over {
     width: 300px;
     height: 100px;
     top: 0px;
